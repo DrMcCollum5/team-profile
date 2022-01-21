@@ -1,0 +1,24 @@
+{
+  "name": "team-profile",
+  "version": "1.0.0",
+  "description": "In this project, the challenge is to build a Node.js command line application that takes in information about employees and generates an HTML webpage that displays summaries for each person.",
+  "main": "index.js",
+  "scripts": {
+    "test": "These tests can be ran with the Jest node package dependency (which will be installed when npm install is ran) and will detail how the structure of the class constructor and its extensions pass all validation tests."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DrMcCollum5/team-profile.git"
+  },
+  "keywords": [
+    "Team",
+    "Profile",
+    "Generator"
+  ],
+  "author": "Akeia McCollum",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DrMcCollum5/team-profile/issues"
+  },
+  "homepage": "https://github.com/DrMcCollum5/team-profile#readme"
+}
