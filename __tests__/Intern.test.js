@@ -1,11 +1,19 @@
-const Employee = require("../Lib/Intern")
-test("class Employee return onject", () =>{
-    const employee=new Employee()
-    expect(typeof(employee)) .toBe("object")
+const Intern = require("../Lib/Intern")
         
-} )
-test("name returns name", () => {
-    const name= "Keia"
-    const Intern=new Intern("Keia", 543, email)
-    expect(employee.name).toBe(name)
+test("school returns school", () => {
+    const school= "school"
+    const intern=new Intern("Keia", 543, "email", school)
+    expect(intern.school).toBe(school)
+})
+
+test("get school returns school", () => {
+    const school= "school"
+    const intern=new Intern("Keia", 543, "email", school)
+    expect(intern.getSchool()).toBe(school)
+})
+
+test("get role returns intern", () => {
+    const role= "Intern"
+    const intern=new Intern("Keia", 543, "email", "school")
+    expect(intern.getRole()).toBe(role)
 })
