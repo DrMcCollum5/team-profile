@@ -25,3 +25,5 @@ See below for an example of the prompts in the command line.
 ## Screenshots
 
 ![Screenshot](./assets/teamprofile.png)
+
+![Capture](https://watch.screencastify.com/v/HY7Duu0Hs3qQgdzQohfz)
