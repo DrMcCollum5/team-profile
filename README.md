@@ -24,4 +24,4 @@ See below for an example of the prompts in the command line.
 
 ## Screenshots
 
-![Screenshot] (./assets/teamprofile.png)
+![Screenshot](./assets/teamprofile.png)
