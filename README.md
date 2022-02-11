@@ -2,8 +2,7 @@
 
 ## Description
 
-The team profile generator is a command-line-input application run in Node.The user is able to enter information about different employees to build a team profile. The team profile is generated in an html file and displays each team member as a card with their name, role, ID, email, and other information specific to their role. 
-
+The team profile generator is a command-line-input application run in Node.The user is able to enter information about different employees to build a team profile. The team profile is generated in an html file and displays each team member as a card with their name, role, ID, email, and other information specific to their role.
 
 ## Usage
 
@@ -25,4 +24,4 @@ See below for an example of the prompts in the command line.
 
 ## Screenshots
 
-
+[Screenshot] (./assets/teamprofile.png)

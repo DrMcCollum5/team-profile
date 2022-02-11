@@ -10,7 +10,7 @@ test("get role returns engineer", () => {
     const engineer=new Engineer("Keia", 543, "email", "gitHub")
     expect(engineer.getRole()).toBe(role)
 })
-test("getGitHub() returns gitHub", () =>{
+test("getGitHub returns gitHub", () =>{
     const gitHub= "gitHub"
     const engineer=new Engineer("Keia", 543, "email", gitHub)
     expect(engineer.getGitHub()).toBe(gitHub);
